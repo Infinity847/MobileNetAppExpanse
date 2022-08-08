@@ -1,0 +1,24 @@
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:arial;
+}
+body {
+    text-align:center;
+    background-color:lightgrey;
+}
+img {
+    border-radius:15px;
+    box-shadow:5px 5px 38px white;
+    width:1000px;
+    height:500px;
+}
+.cooldiv {
+    border:2px solid white;
+box-shadow:5px 5px 38px white;
+border-radius:15px;
+}
+.enddiv {
+    border:2px solid rgb(255, 0, 255);
+box-shadow:5px 5px 38px rgb(255, 0, 255);
+border-radius:15px;
+}
